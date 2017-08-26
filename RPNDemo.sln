@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPNDemoWPF", "demo\RPNDemoWPF\RPNDemoWPF.csproj", "{E438096C-5AE0-41D7-8467-AB572EF00F17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPNCore", "src\RPNCore\RPNCore.csproj", "{A6FDCC9A-1524-4378-BEC2-0F6AA64F2938}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E438096C-5AE0-41D7-8467-AB572EF00F17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E438096C-5AE0-41D7-8467-AB572EF00F17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E438096C-5AE0-41D7-8467-AB572EF00F17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E438096C-5AE0-41D7-8467-AB572EF00F17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6FDCC9A-1524-4378-BEC2-0F6AA64F2938}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6FDCC9A-1524-4378-BEC2-0F6AA64F2938}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6FDCC9A-1524-4378-BEC2-0F6AA64F2938}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6FDCC9A-1524-4378-BEC2-0F6AA64F2938}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

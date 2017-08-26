@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<ArrayOfButtonModel xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<ButtonModel Symbol="9" Display="9"/>
+<ButtonModel Symbol="8" Display="8"/>
+<ButtonModel Symbol="7" Display="7"/>
+<ButtonModel Symbol="6" Display="6"/>
+<ButtonModel Symbol="5" Display="5"/>
+<ButtonModel Symbol="4" Display="4"/>
+<ButtonModel Symbol="3" Display="3"/>
+<ButtonModel Symbol="2" Display="2"/>
+<ButtonModel Symbol="1" Display="1"/>
+<ButtonModel Symbol="0" Display="0"/>
+<ButtonModel Symbol="." Display="."/>
+<ButtonModel Symbol="+" Display="+"/>
+<ButtonModel Symbol="-" Display="-"/>
+<ButtonModel Symbol="*" Display="*"/>
+<ButtonModel Symbol="/" Display="/"/>
+<ButtonModel Symbol="%" Display="%"/>
+<ButtonModel Symbol="^" Display="^"/>
+<ButtonModel Symbol="&amp;&amp;" Display="&amp;&amp;" IsOperator="true"/>
+<ButtonModel Symbol="||" Display="||" IsOperator="true"/>
+<ButtonModel Symbol="==" Display="==" IsOperator="true"/>
+<ButtonModel Symbol="!=" Display="!=" IsOperator="true"/>
+<ButtonModel Symbol="&lt;&gt;" Display="&lt;&gt;" IsOperator="true"/>
+<ButtonModel Symbol="&lt;" Display="&lt;"/>
+<ButtonModel Symbol="&lt;=" Display="&lt;=" IsOperator="true"/>
+<ButtonModel Symbol="&gt;" Display="&gt;" IsOperator="true"/>
+<ButtonModel Symbol="&gt;=" Display="&gt;=" IsOperator="true"/>
+<ButtonModel Symbol="abs()" Display="abs" IsOperator="true"/>
+<ButtonModel Symbol="ceil()" Display="ceil" IsOperator="true"/>
+<ButtonModel Symbol="floor()" Display="floor" IsOperator="true"/>
+<ButtonModel Symbol="trunc()" Display="trunc" IsOperator="true"/>
+<ButtonModel Symbol="sqrt()" Display="sqrt" IsOperator="true"/>
+<ButtonModel Symbol="pow()" Display="pow" IsOperator="true"/>
+<ButtonModel Symbol="sin()" Display="sin" IsOperator="true"/>
+<ButtonModel Symbol="cos()" Display="cos" IsOperator="true"/>
+<ButtonModel Symbol="tan()" Display="tan" IsOperator="true"/>
+<ButtonModel Symbol="sinh()" Display="sinh" IsOperator="true"/>
+<ButtonModel Symbol="cosh()" Display="cosh" IsOperator="true"/>
+<ButtonModel Symbol="tanh()" Display="tanh" IsOperator="true"/>
+<ButtonModel Symbol="asin()" Display="asin" IsOperator="true"/>
+<ButtonModel Symbol="acos()" Display="acos" IsOperator="true"/>
+<ButtonModel Symbol="atan()" Display="atan" IsOperator="true"/>
+<ButtonModel Symbol="asinh()" Display="asinh" IsOperator="true"/>
+<ButtonModel Symbol="acosh()" Display="acosh" IsOperator="true"/>
+<ButtonModel Symbol="atanh()" Display="atanh" IsOperator="true"/>
+<ButtonModel Symbol="log()" Display="log" IsOperator="true"/>
+<ButtonModel Symbol="log10()" Display="log10" IsOperator="true"/>
+<ButtonModel Symbol="min()" Display="min" IsOperator="true"/>
+<ButtonModel Symbol="max()" Display="max" IsOperator="true"/>
+<ButtonModel Symbol="round()" Display="round" IsOperator="true"/>
+<ButtonModel Symbol="exp()" Display="exp" IsOperator="true"/>
+</ArrayOfButtonModel>
